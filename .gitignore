@@ -1,0 +1,30 @@
+# PyTorch and general Python files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project-specific paths
+results/
+features/
+pretrained_models/
+gen_STDR/
+samples/
+*.pt
+*.pth
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
